@@ -1,1 +1,4 @@
-https://bodergatez.dsrcgoms.net/sw/conf/bc114103
+{
+  "u": "https://bodergatez.dsrcgoms.net/sw/conf/bc114103",
+  "aff_id": "hit"
+}
