@@ -1,4 +1,4 @@
 {
   "u": "https://bodergatez.dsrcgoms.net/sw/conf/bc114103",
-  "aff_id": "hit"
+  "aff_id": "f81491ca838d2df4bd0123723aa674e5"
 }
